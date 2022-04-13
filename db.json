@@ -1,0 +1,26 @@
+{
+  "signupedusers": [
+    {
+      "username": "alireza",
+      "email": "alirezarostaey99@gmail.com",
+      "fullName": "AlirezaRoustaei",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "theme",
+      "email": "theme@gmail.com",
+      "fullName": "alireza rostaei",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "todoes": [
+    {
+      "userId": 1,
+      "todoName": "Django & React",
+      "isComplated": false,
+      "id": 1
+    }
+  ]
+}
